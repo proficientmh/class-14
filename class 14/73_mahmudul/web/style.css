@@ -1,0 +1,107 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: tahoma;
+}
+.nn{
+	height: 50px;
+	background-image: linear-gradient(to left, green 60%, blue 40%);
+}
+.dd{
+	height: 300px;
+	margin-top: 30px;
+	background-image: linear-gradient(to  left bottom, red,yellow,blue)
+}
+.ro{
+	height: 300px;
+	width: 500px;
+	background-color: green;
+	
+	margin: auto;
+	margin-top: 20px;
+position: relative;
+}
+.roo{
+	height: 50px;
+	width: 50px;
+	background-color: red;
+	border-radius: 50%;
+	position: absolute;
+
+	bottom:0px;
+	top: 0px;
+	right: 0px;
+	left: 0px;
+	margin: auto;
+}
+
+
+
+
+
+.main{
+	background-color: #C7CED4;
+	height: 1500px;
+	overflow: hidden;
+}
+.mid{
+
+	height: 700px;
+	width: 800px;
+	margin: auto;
+	margin-top: 30px;
+	overflow: hidden;
+}
+.card{
+	background-color: white;
+	height: 100px;
+	width: 500px;
+	margin: auto;
+	margin-top: 50px;
+	
+	position: relative;
+	box-shadow: 0px 0px 11px -5px black;
+border-radius: 7px;
+
+}
+.one{
+	background-color:#BF86BD;
+	height: 100px;
+	width: 500px;
+	position: absolute;
+    left: 74px;
+    top: -11px;
+    border: 3px solid white;
+border-radius: 8px;
+}
+
+.text{
+	background-color: white;
+	height: 30px; 
+	width: 150px;
+	margin-top: 23px;
+}
+.ss{
+	overflow: hidden;
+}
+.ss h1{
+
+margin: 29px 0px 0px 12px;
+font-size: 43px;
+}
+.qq{
+		overflow: hidden;
+}
+
+.qq h2{
+	font-size: 40px;
+	font-size: 14px;
+margin-left: 25px;
+margin-top: 7px;
+}
+.par p{
+	font-size: 11px;
+margin-left: 34px;
+margin-right: 34px;
+margin-top: 12px;
+}
